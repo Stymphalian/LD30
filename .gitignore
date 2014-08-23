@@ -1,0 +1,8 @@
+*~
+*.swp
+*.tmp
+noin
+*.jordan
+archive/
+node_modules/
+setup_ld.bat
