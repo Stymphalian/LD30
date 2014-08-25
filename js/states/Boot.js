@@ -1,7 +1,7 @@
 function Boot(){};
 Boot.prototype = {
    preload: function(){
-      this.load.image('preloader', "R/preloader.gif");
+      this.load.image('preloader', "R/preloader.gif");      
    },
    create: function(){
       this.game.input.maxPointers = 1;
