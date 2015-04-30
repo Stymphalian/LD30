@@ -1,6 +1,9 @@
 Author: Jordan Yu
 Date: August 25th,2014
 
+
+Try it out at http://ld30-light-and-dark.herokuapp.com/
+
 library: phaser
 editor: brackets
 sound: jfxr,sfxr, inudge
